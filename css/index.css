@@ -19,7 +19,7 @@
 
 
 html{
-    max-width: 1400px;
+    
     font-family: 'Raleway', sans-serif;
     padding-top: 44px;
     border-left: 25px white solid;
@@ -41,7 +41,8 @@ html{
     color: #d9d9d9;
 }
 body{
-    margin: 0px;
+    margin: auto;
+    max-width: 1400px;
 }
 
 
