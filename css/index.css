@@ -196,7 +196,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 90%;
+    width: 85%;
     flex-wrap: wrap;
 
 }
@@ -222,7 +222,9 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
     padding: 10px;
+    
    
     
     
@@ -238,6 +240,7 @@ header{
     color: black;
     
 }
+
 
     
 
@@ -668,7 +671,7 @@ footer{
         
     }
     .filtre{
-        width: 44%;
+        width: 42%;
         margin: 0px 10px 20px 10px;
         height: 45px;
         display: flex;
